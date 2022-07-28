@@ -9,7 +9,7 @@ import (
 	"github.com/pjb7687/phabulous/app/gonduit/extensions/requests"
 	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/pjb7687/phabulous/app/messages"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 // WhoisCommand allows one to send test messages to the feed channel.
