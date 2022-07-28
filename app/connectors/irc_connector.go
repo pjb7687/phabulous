@@ -6,8 +6,8 @@ import (
 
 	"github.com/Sirupsen/logrus"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/etcinit/phabulous/app/factories"
-	"github.com/etcinit/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/factories"
+	"github.com/pjb7687/phabulous/app/interfaces"
 	irc "github.com/fluffle/goirc/client"
 	"github.com/jacobstr/confer"
 )
