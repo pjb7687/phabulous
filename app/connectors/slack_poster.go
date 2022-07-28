@@ -3,7 +3,7 @@ package connectors
 import (
 	"errors"
 
-	"github.com/etcinit/phabulous/app/messages"
+	"github.com/pjb7687/phabulous/app/messages"
 	"github.com/nlopes/slack"
 )
 
