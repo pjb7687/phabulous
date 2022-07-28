@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/etcinit/phabulous/app"
 	"github.com/facebookgo/inject"
 	"github.com/jacobstr/confer"
