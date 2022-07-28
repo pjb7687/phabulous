@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/etcinit/pjb7687/app/interfaces"
+	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/jacobstr/confer"
 )
 
