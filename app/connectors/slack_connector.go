@@ -5,7 +5,7 @@ import (
 	"github.com/pjb7687/phabulous/app/factories"
 	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/jacobstr/confer"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 // NewSlackConnector constructs an instance of a SlackConnector.
