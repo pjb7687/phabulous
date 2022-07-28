@@ -3,7 +3,7 @@ package connectors
 import (
 	"strings"
 
-	"github.com/etcinit/phabulous/app/messages"
+	"github.com/pjb7687/phabulous/app/messages"
 )
 
 // Post posts a text message.
