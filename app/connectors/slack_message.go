@@ -1,6 +1,6 @@
 package connectors
 
-import "github.com/nlopes/slack"
+import "github.com/slack-go/slack"
 
 // NewSlackMessage constructs a new instance of an SlackMessage.
 func NewSlackMessage(
