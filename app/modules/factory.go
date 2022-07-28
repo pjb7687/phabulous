@@ -1,11 +1,11 @@
 package modules
 
 import (
-	"github.com/Sirupsen/logrus"
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/modules/core"
-	"github.com/etcinit/phabulous/app/modules/dev"
-	"github.com/etcinit/phabulous/app/modules/extension"
+	"github.com/sirupsen/logrus"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/modules/core"
+	"github.com/pjb7687/phabulous/app/modules/dev"
+	"github.com/pjb7687/phabulous/app/modules/extension"
 	"github.com/jacobstr/confer"
 )
 
