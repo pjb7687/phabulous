@@ -3,7 +3,7 @@ package interfaces
 import (
 	"github.com/etcinit/gonduit"
 	"github.com/jacobstr/confer"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 // A Bot provides most methods and services needed by command handlers to
