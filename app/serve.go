@@ -3,8 +3,8 @@ package app
 import (
 	"strconv"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/codegangsta/cli"
+	"github.com/sirupsen/logrus"
+	"github.com/urfave/cli"
 	"github.com/jacobstr/confer"
 )
 
