@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/sirupsen/logrus"
-	"github.com/pjb7687/gonduit/constants"
+	"github.com/etcinit/gonduit/constants"
 	"github.com/pjb7687/phabulous/app/factories"
 	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/pjb7687/phabulous/app/messages"
