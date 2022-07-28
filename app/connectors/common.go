@@ -1,8 +1,8 @@
 package connectors
 
 import (
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/utilities"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/utilities"
 )
 
 // processMessage processes incoming messages events and calls the appropriate
