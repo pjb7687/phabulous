@@ -5,10 +5,10 @@ import (
 
 	"github.com/etcinit/gonduit"
 	gonduitRequests "github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/phabulous/app/gonduit/extensions"
-	"github.com/etcinit/phabulous/app/gonduit/extensions/requests"
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/messages"
+	"github.com/pjb7687/phabulous/app/gonduit/extensions"
+	"github.com/pjb7687/phabulous/app/gonduit/extensions/requests"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/messages"
 	"github.com/nlopes/slack"
 )
 
