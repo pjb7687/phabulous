@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/pjb7687/phabulous/app/messages"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 var (
