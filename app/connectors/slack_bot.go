@@ -8,7 +8,7 @@ import (
 	"github.com/pjb7687/phabulous/app/messages"
 	"github.com/pjb7687/phabulous/app/modules"
 	"github.com/jacobstr/confer"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 func (c *SlackConnector) setupRTM(slackRTM *slack.RTM, slackInfo *slack.Info) {
