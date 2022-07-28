@@ -3,8 +3,8 @@ package utilities
 import (
 	"testing"
 
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/testing/mocks"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/testing/mocks"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )
