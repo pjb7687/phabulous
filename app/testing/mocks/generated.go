@@ -6,8 +6,8 @@ package mocks
 
 import (
 	gonduit "github.com/etcinit/gonduit"
-	interfaces "github.com/etcinit/phabulous/app/interfaces"
-	messages "github.com/etcinit/phabulous/app/messages"
+	interfaces "github.com/pjb7687/phabulous/app/interfaces"
+	messages "github.com/pjb7687/phabulous/app/messages"
 	gomock "github.com/golang/mock/gomock"
 	confer "github.com/jacobstr/confer"
 	reflect "reflect"
