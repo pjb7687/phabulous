@@ -3,7 +3,7 @@ package core
 import (
 	"fmt"
 
-	"github.com/pjb7687/gonduit/requests"
+	"github.com/etcinit/gonduit/requests"
 	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/pjb7687/phabulous/app/messages"
 )
