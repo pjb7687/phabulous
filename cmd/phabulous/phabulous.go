@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
-	"github.com/etcinit/phabulous/app"
+	"github.com/pjb7687/phabulous/app"
 	"github.com/facebookgo/inject"
 	"github.com/jacobstr/confer"
 )
