@@ -1,6 +1,6 @@
 package interfaces
 
-import "github.com/etcinit/phabulous/app/messages"
+import "github.com/pjb7687/phabulous/app/messages"
 
 // A Poster is an object capable of posting messages in a chat network.
 type Poster interface {
