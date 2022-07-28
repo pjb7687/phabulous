@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/codegangsta/cli"
 	"github.com/etcinit/phabulous/app"
 	"github.com/facebookgo/inject"
