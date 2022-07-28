@@ -1,6 +1,6 @@
 package dev
 
-import "github.com/etcinit/phabulous/app/interfaces"
+import "github.com/pjb7687/phabulous/app/interfaces"
 
 // TestCommand allows one to send test messages to the feed channel.
 type TestCommand struct{}
