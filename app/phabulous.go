@@ -3,9 +3,9 @@ package app
 import (
 	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli"
-	"github.com/etcinit/phabulous/app/connectors"
-	"github.com/etcinit/phabulous/app/factories"
-	"github.com/etcinit/phabulous/app/modules"
+	"github.com/etcinit/pjb7687/app/connectors"
+	"github.com/etcinit/pjb7687/app/factories"
+	"github.com/etcinit/pjb7687/app/modules"
 	"github.com/jacobstr/confer"
 )
 
