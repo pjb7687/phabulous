@@ -4,9 +4,9 @@ import (
 	"regexp"
 
 	"github.com/etcinit/gonduit"
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/messages"
-	"github.com/etcinit/phabulous/app/modules"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/messages"
+	"github.com/pjb7687/phabulous/app/modules"
 	"github.com/fluffle/goirc/client"
 	"github.com/jacobstr/confer"
 )
