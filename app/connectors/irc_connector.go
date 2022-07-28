@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/pjb7687/phabulous/app/factories"
 	"github.com/pjb7687/phabulous/app/interfaces"
