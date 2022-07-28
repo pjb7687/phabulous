@@ -1,8 +1,8 @@
 package app
 
 import (
-	"github.com/etcinit/phabulous/app/interfaces"
-	"github.com/etcinit/phabulous/app/messages"
+	"github.com/pjb7687/phabulous/app/interfaces"
+	"github.com/pjb7687/phabulous/app/messages"
 )
 
 // A ConnectorManager can be seen as an aggregator of Connector objects. It
