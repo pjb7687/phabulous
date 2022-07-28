@@ -1,6 +1,6 @@
 package utilities
 
-import "github.com/etcinit/phabulous/app/interfaces"
+import "github.com/pjb7687/phabulous/app/interfaces"
 
 // HasModule returns whether or not a bot connector has a specific module
 // loaded.
