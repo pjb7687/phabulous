@@ -14,7 +14,7 @@ import (
 	"github.com/pjb7687/phabulous/app/interfaces"
 	"github.com/pjb7687/phabulous/app/messages"
 	"github.com/pjb7687/phabulous/app/utilities"
-	"github.com/nlopes/slack"
+	"github.com/slack-go/slack"
 )
 
 // SummonCommand allows users to summon reviewers.
